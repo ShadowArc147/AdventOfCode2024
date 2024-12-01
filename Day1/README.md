@@ -3,9 +3,10 @@
 ## Times
 I got up really late so my times were atrocious!
 
-      --------Part 1--------   --------Part 2--------
-Day       Time   Rank  Score       Time   Rank  Score
-  1   06:40:07  37312      0   06:48:38  34736      0
+| Day | Part | Time     | Rank   | Score |
+|-----|------|----------|--------|-------|
+|  1  |  1   | 06:40:07 | 37312  |   0   |
+|     |  2   | 06:48:38 | 34736  |   0   |
 
 ## Solution 
 ### Part 1
