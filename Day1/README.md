@@ -13,7 +13,7 @@ I got up really late so my times were atrocious!
 Overall, nice easy introduction. 
 I started by thinking of ways to make the input file a bit easier to work with, maybe a few loops or splitting by line with some regex to split the numbers based on white spaces etc.
 
-I settled with writing a short script that would place a comma every 5 characters (ignoring whitespaces) and then converting to a comma delimited version (CSV). Now I had 2 columns to work with and easy access to Pandas to do any for loops for me.
+I wanted some practice with Pandas so I settled with writing a short script that would place a comma every 5 characters (ignoring whitespaces) and then converting to a comma delimited version (CSV). Now I had 2 columns to work with and easy access to Pandas to do all the work :D.
 
 First thing was to sort the columns independently by their value in ascending order:
 
